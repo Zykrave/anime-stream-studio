@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "description": "A young boy becomes a demon slayer after his family is slaughtered and his sister is turned into a demon. He embarks on a dangerous journey to find a cure and avenge his family.",
+    "rating": 9.2,
+    "genres": ["Action", "Fantasy", "Adventure"],
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1626544827763-d516dce335e2?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "1-1", "number": 1, "title": "Cruelty", "duration": "24 min" },
+      { "id": "1-2", "number": 2, "title": "Trainer Sakonji Urokodaki", "duration": "24 min" },
+      { "id": "1-3", "number": 3, "title": "Sabito and Makomo", "duration": "24 min" },
+      { "id": "1-4", "number": 4, "title": "Final Selection", "duration": "24 min" },
+      { "id": "1-5", "number": 5, "title": "My Own Steel", "duration": "24 min" },
+      { "id": "1-6", "number": 6, "title": "Swordsman Accompanying a Demon", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 98
+  },
+  {
+    "id": "2",
+    "title": "Attack on Titan",
+    "description": "Humanity lives inside cities surrounded by enormous walls to protect themselves from Titans, gigantic humanoid creatures. When a colossal Titan breaches the wall, a young soldier vows to destroy them.",
+    "rating": 9.0,
+    "genres": ["Action", "Drama", "Dark Fantasy"],
+    "thumbnail": "https://images.unsplash.com/photo-1541562232579-512a21360020?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "2-1", "number": 1, "title": "To You, in 2000 Years", "duration": "25 min" },
+      { "id": "2-2", "number": 2, "title": "That Day", "duration": "25 min" },
+      { "id": "2-3", "number": 3, "title": "A Dim Light", "duration": "25 min" },
+      { "id": "2-4", "number": 4, "title": "The Night of the Closing Ceremony", "duration": "25 min" },
+      { "id": "2-5", "number": 5, "title": "First Battle", "duration": "25 min" }
+    ],
+    "duration": "25 min per ep",
+    "popularity": 96
+  },
+  {
+    "id": "3",
+    "title": "Jujutsu Kaisen",
+    "description": "A boy swallows a cursed talisman and becomes host to a powerful curse. He enrolls in a school for sorcerers to find other pieces of the talisman before a great evil is unleashed.",
+    "rating": 8.8,
+    "genres": ["Action", "Supernatural", "School"],
+    "thumbnail": "https://images.unsplash.com/photo-1607604276583-3296c546dbcb?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "3-1", "number": 1, "title": "Ryomen Sukuna", "duration": "24 min" },
+      { "id": "3-2", "number": 2, "title": "For Myself", "duration": "24 min" },
+      { "id": "3-3", "number": 3, "title": "Girl of Steel", "duration": "24 min" },
+      { "id": "3-4", "number": 4, "title": "Curse Womb Must Die", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 94
+  },
+  {
+    "id": "4",
+    "title": "One Punch Man",
+    "description": "The story of Saitama, a hero who can defeat any opponent with a single punch but seeks to find a worthy foe in a world full of monsters and villains.",
+    "rating": 8.7,
+    "genres": ["Action", "Comedy", "Parody"],
+    "thumbnail": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "4-1", "number": 1, "title": "The Strongest Man", "duration": "24 min" },
+      { "id": "4-2", "number": 2, "title": "The Lone Cyborg", "duration": "24 min" },
+      { "id": "4-3", "number": 3, "title": "The Obsessive Scientist", "duration": "24 min" },
+      { "id": "4-4", "number": 4, "title": "The Modern Ninja", "duration": "24 min" },
+      { "id": "4-5", "number": 5, "title": "The Ultimate Master", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 90
+  },
+  {
+    "id": "5",
+    "title": "Spy x Family",
+    "description": "A spy must build a fake family to execute a mission, not realizing that the girl he adopts is a telepath and the woman he agrees to be in a sham marriage with is a skilled assassin.",
+    "rating": 8.6,
+    "genres": ["Comedy", "Action", "Slice of Life"],
+    "thumbnail": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "5-1", "number": 1, "title": "Operation Strix", "duration": "24 min" },
+      { "id": "5-2", "number": 2, "title": "Secure a Wife", "duration": "24 min" },
+      { "id": "5-3", "number": 3, "title": "Prepare for the Interview", "duration": "24 min" },
+      { "id": "5-4", "number": 4, "title": "The Prestigious School", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 92
+  },
+  {
+    "id": "6",
+    "title": "Chainsaw Man",
+    "description": "Denji is a young man trapped in poverty, working as a Devil Hunter to pay off his deceased father's debts. After merging with his pet devil dog, he becomes the Chainsaw Man.",
+    "rating": 8.5,
+    "genres": ["Action", "Horror", "Dark Fantasy"],
+    "thumbnail": "https://images.unsplash.com/photo-1560972550-aba3456b5564?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "6-1", "number": 1, "title": "Dog & Chainsaw", "duration": "24 min" },
+      { "id": "6-2", "number": 2, "title": "Arrival in Tokyo", "duration": "24 min" },
+      { "id": "6-3", "number": 3, "title": "Meowy's Whereabouts", "duration": "24 min" },
+      { "id": "6-4", "number": 4, "title": "Rescue", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 88
+  },
+  {
+    "id": "7",
+    "title": "My Hero Academia",
+    "description": "In a world where most people have superpowers, a quirkless boy dreams of becoming a hero and enrolls in a prestigious hero academy after inheriting a powerful ability.",
+    "rating": 8.4,
+    "genres": ["Action", "Superhero", "School"],
+    "thumbnail": "https://images.unsplash.com/photo-1580477667995-2b94f01c9516?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "7-1", "number": 1, "title": "Izuku Midoriya: Origin", "duration": "24 min" },
+      { "id": "7-2", "number": 2, "title": "What It Takes to Be a Hero", "duration": "24 min" },
+      { "id": "7-3", "number": 3, "title": "Roaring Muscles", "duration": "24 min" },
+      { "id": "7-4", "number": 4, "title": "Start Line", "duration": "24 min" },
+      { "id": "7-5", "number": 5, "title": "What I Can Do For Now", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 86
+  },
+  {
+    "id": "8",
+    "title": "Vinland Saga",
+    "description": "Thorfinn, the son of a great warrior, is among the finest fighters in the army of the Danish King. But his true quest is to exact vengeance on the man who murdered his father.",
+    "rating": 8.9,
+    "genres": ["Action", "Historical", "Drama"],
+    "thumbnail": "https://images.unsplash.com/photo-1519638399535-1b036603ac77?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "8-1", "number": 1, "title": "Somewhere Not Here", "duration": "24 min" },
+      { "id": "8-2", "number": 2, "title": "Sword", "duration": "24 min" },
+      { "id": "8-3", "number": 3, "title": "Troll", "duration": "24 min" },
+      { "id": "8-4", "number": 4, "title": "A True Warrior", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 85
+  },
+  {
+    "id": "9",
+    "title": "Tokyo Revengers",
+    "description": "A freelancer learns his middle school ex-girlfriend was killed by the Tokyo Manji Gang. He travels back in time to save her and change the course of the future.",
+    "rating": 8.2,
+    "genres": ["Action", "Sci-Fi", "Drama"],
+    "thumbnail": "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "9-1", "number": 1, "title": "Reborn", "duration": "24 min" },
+      { "id": "9-2", "number": 2, "title": "Resist", "duration": "24 min" },
+      { "id": "9-3", "number": 3, "title": "Resolve", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 82
+  },
+  {
+    "id": "10",
+    "title": "Solo Leveling",
+    "description": "In a world where hunters must battle deadly monsters to protect humanity, Sung Jinwoo starts as the weakest hunter but gains a mysterious system that allows him to level up infinitely.",
+    "rating": 9.1,
+    "genres": ["Action", "Fantasy", "Supernatural"],
+    "thumbnail": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=400&h=600&fit=crop",
+    "banner": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1920&h=800&fit=crop",
+    "episodes": [
+      { "id": "10-1", "number": 1, "title": "I'm Used to It", "duration": "24 min" },
+      { "id": "10-2", "number": 2, "title": "If I Had One More Chance", "duration": "24 min" },
+      { "id": "10-3", "number": 3, "title": "It's Like a Game", "duration": "24 min" },
+      { "id": "10-4", "number": 4, "title": "I've Gotta Get Stronger", "duration": "24 min" },
+      { "id": "10-5", "number": 5, "title": "A Pretty Good Deal", "duration": "24 min" }
+    ],
+    "duration": "24 min per ep",
+    "popularity": 95
+  }
+]
